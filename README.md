@@ -6,13 +6,15 @@ Al comenzar el juego y durante el desarrollo del mismo las opciones que se muest
 2. Partida 2 Jugadores
 3. Estadística
 4. Salir
+
 Modo solitario supone que el número a adivinar es generado aleatoriamente por el ordenador.
 Modo 2 Jugadores: primero se escribe un número a adivinar y luego un segundo jugador intenta adivinarlo.
 El número a adivinar debe ser entre 1 y 1000.
 Tanto la opción 1 como la opción 2 tendrán el siguiente submenú para elegir la dificultad
-1. Fácil (20 intentos)
-2. Medio (12 intentos)
-3. Difícil (5 intentos)
+- Fácil (20 intentos)
+- Medio (12 intentos)
+- Difícil (5 intentos)
+
 En ambos menús debe chequearse que la opción elegida es válida y avisar en caso contrario.
 Si se adivina el número se gana la partida y se vuelve al menú principal, sino se indica si el número buscado es mayor o menor.
 Si se supera el número de intentos se pierde y se vuelve al menú principal.
